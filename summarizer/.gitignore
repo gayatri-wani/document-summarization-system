@@ -17,3 +17,6 @@ Thumbs.db
 # Model cache / large files
 *.pt
 *.bin
+
+nltk_data/
+history.db

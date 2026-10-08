@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+nltk_data/
+history.db
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.pt
+*.bin

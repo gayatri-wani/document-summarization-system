@@ -1,0 +1,9 @@
+streamlit
+nltk
+scikit-learn
+numpy
+networkx
+pandas
+pypdf
+python-docx
+rouge-score
